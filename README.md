@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @christynatalia
-- Currently, a student at University of Wollongong, Australia
+- A student at University of Wollongong, Australia majoring in Big Data
 
