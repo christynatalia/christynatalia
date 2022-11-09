@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christynatalia
+- 👋 Hi, I’m christy
 - A student at University of Wollongong, Australia majoring in Big Data and Artificial Intelligence
 
 
